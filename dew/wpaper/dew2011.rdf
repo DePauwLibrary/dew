@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Humberto Barreto
+Author-Name-First: Humberto
+Author-Name-Last: Barreto
+Author-Workplace-Name: Department of Economics and Management, DePauw University
+Author-Name:  Manu Raghav
+Author-Name-First: Manu
+Author-Name-Last: Raghav
+Author-Workplace-Name: Department of Economics and Management, DePauw University
+Title:  Understanding and Teaching Unequal Probability of Selection
+Abstract:  This paper focuses on econometrics pedagogy. It demonstrates the importance of including probability weights in regression analysis using data from surveys that do not use simple random samples (SRS). We use concrete, numerical examples and simulation to show how to effectively teach this difficult material to a student audience. We relax the assumption of simple random sampling and show how unequal probability of selection can lead to biased, inconsistent OLS slope estimates. We then explain and apply probability weighted least squares, showing how weighting the observations by the reciprocal of the probability of inclusion in the sample improves performance. The exposition is non-mathematical and relies heavily on intuitive, visual displays to make the content accessible to students. This paper will enable professors to incorporate unequal probability of selection into their courses and allow students to use best practice techniques in analyzing data from complex surveys. The primary delivery vehicle is Microsoft Excel®. Two user-defined array functions, SAMPLE and LINESTW, are included in a prepared Excel workbook. We replicate all results in Stata® and offer a file for easy analysis. Documented code in Excel and Stata allows users to see each step in the sampling and probability weighted least squares algorithms.
+Creation-Date:  2011-10
+Publication-Status: Published in Journal of Econometric Methods, Volume 2, Issue 1, March 2013, pages 101-112
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1016&context=dew
+File-Format: Application/pdf
+Number: 2011-01
+Classification-JEL: A2, A22, A23, C80, C81, C83, C87
+Keywords: complex survey, simulation, unequal probability, weighted regression
+Handle: RePEc:dew:wpaper:2011-01
+
+
+
+ 
+

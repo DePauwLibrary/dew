@@ -1,0 +1,44 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Humberto Barreto
+Author-Name-First: Humberto
+Author-Name-Last: Barreto
+Author-Workplace-Name: Department of Economics and Management, DePauw University
+Title:  Macro Data with the FRED Excel Add-in
+Abstract:  This working paper is intended to be a chapter in a forthcoming book, tentatively titled Macroeconomics with Excel. The printed book will be a manual for professors, while the Excel workbooks are freely available to students. See www.depauw.edu/learn/macroexcel for more information on this project. This version was presented at the 9th annual Economics Teaching Conference on October 25, 2013.
+Creation-Date:  2013-10
+Publication-Status: 
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1002&context=dew
+File-Format: Application/pdf
+Number: 2013-01
+Classification-JEL: A2, E0, E2, E3, E4, E5 
+Keywords: data collection, Federal Reserve data, teaching, macroeconomics
+Handle: RePEc:dew:wpaper:2013-01
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Humberto Barreto
+Author-Name-First: Humberto
+Author-Name-Last: Barreto
+Author-Workplace-Name: Department of Economics and Management, DePauw University
+Author-Name:  Manu Raghav
+Author-Name-First: Manu
+Author-Name-Last: Raghav
+Author-Workplace-Name: Department of Economics and Management, DePauw University
+Title:  Understanding and Teaching Within-Cluster Correlation in Complex Surveys
+Abstract: This econometrics pedagogy paper demonstrates the importance of using cluster standard errors with data generated from complex surveys. Simulation is used to show that both classic ordinary least squares and robust standard errors perform poorly in the presence of within-cluster correlated errors, while cluster standard errors are much better. We take advantage of Excel’s spreadsheet interface to produce clear, strong visuals of the data generation process and intuitively explain key results. Stata and R implementations are also provided. We conclude with suggestions for how to use these files in the classroom.
+Creation-Date:  2013-07
+Publication-Status: Published in Journal of Econometric Methods, Volume 2, Issue 1, March 2013, pages 101-112
+File-URL: https://scholarship.depauw.edu/cgi/viewcontent.cgi?article=1008&context=dew
+File-Format: Application/pdf
+Number: 2013-02
+Classification-JEL: A2, A22, A23, C80, C81, C83, C87
+Keywords: complex survey, simulation, cluster sampling, estimation, survey regression
+Handle: RePEc:dew:wpaper:2013-02
+
+
+
+ 
+
+
+
+ 
+
